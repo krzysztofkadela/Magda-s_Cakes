@@ -12,6 +12,7 @@ body{
     flex-direction: column;
     box-sizing: border-box;
 }
+
 /*header*/
 #header{
     background-color: #739e94;
@@ -22,19 +23,33 @@ body{
     padding: 5px 10px;
 }
 #logo{
-    max-width: 33%;
+    padding-left: 5px;
+}
+.navbar{
+    width: 100%;
+    background-color: aquamarine;
+    /*display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;*/
+}
+.nav-li a{
+    color: black;
 }
 #nav-bar-side{
-    text-align: center;
-    border: 2px solid black;
-    width: 30%;
     display: flex;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
 }
 #maps{
     font-size: xx-large;
     text-align: center;
-    color: black;
+}
+
+#photo{
+    width: 50%;
+    background-color: aquamarine;
 }
 
 
