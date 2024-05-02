@@ -14,15 +14,16 @@ body{
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
+    
 }
 
 /*Section Magda*/
-#Magda{
+#magda{
     background-color: #739e94;
     display: flex;
     width: 100%;
     justify-content: space-around;
-    flex-direction: row;
+    flex-direction: column;
     padding: 5px 10px;
 }
 .nav{
@@ -37,12 +38,10 @@ body{
 }
 .navbar{
     width: 100%;
-    height: 50px;
     background-color:white;
     display: flex;
     flex-direction: column;
     align-items: center;
-    
 } 
 .nav-li a{
     color: black;
@@ -50,7 +49,7 @@ body{
 }
 #nav-bar-side{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
     list-style-type: none;
 }
@@ -71,6 +70,7 @@ body{
 }
 main{
     flex: 1 0 auto;
+    margin-bottom: 60px;
 }
 /*Footer*/
 footer{
