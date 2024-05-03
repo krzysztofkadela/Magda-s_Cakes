@@ -21,15 +21,14 @@ body {
 
 /*Section Magda*/
 #magda {
-    background-color: #739e94;
     display: flex;
     width: 100%;
-    justify-content: space-around;
     flex-direction: column;
-    padding: 5px 10px;
 }
 #photo{
-    max-height: 60px;
+    height: 600px;
+    width: 100%;
+    background: url("../css/images/vecteezy_ai-generated-a-pink-birthday-cake-adorned-with-gold-drip-icing_35841098.jpg") no-repeat center center/cover;
 }
 
 .nav {
