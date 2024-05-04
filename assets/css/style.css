@@ -84,9 +84,10 @@ footer {
     text-align: justify;
 }
 .contact{
-    height: 60px;
+    height: auto;
     width: 100%;
 }
+
 #social_media{
     list-style-type: none;
     display: flex;
@@ -99,7 +100,18 @@ footer {
     font-size: 180%;
     justify-content: space-around;
 }
+/*Opening hours section on footer*/
 #hours{
     color: aliceblue;
      margin-top: 1%;
+     text-align: center;
+     padding: 20px 30px;
+}
+#hours ul {
+    list-style-type: none;
+}
+#location{
+    color: azure;
+    text-align: center;
+    padding: 20px 30px;
 }
