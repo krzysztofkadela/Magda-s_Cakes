@@ -58,22 +58,22 @@ header a {
     list-style-type: none;
 }
 
-.nav-li > a {
+.nav-li>a {
     color: black;
     padding-top: 10px;
 }
 
 /*navigation bar hiden*/
 nav {
-    width:auto;
-    background-color: rgba(144, 218, 233, 0.5);
+    width: auto;
+    background-color: #b8d9e4f5;
     display: flex;
     flex-direction: column;
     align-items: center;
     position: absolute;
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
-    left:0;
+    left: 0;
     display: none;
     top: 100%;
 }
@@ -93,9 +93,6 @@ nav {
 }
 
 
-
-
-
 #maps {
     font-size: xx-large;
     text-align: center;
@@ -106,6 +103,8 @@ nav {
     display: flex;
     width: 100%;
     flex-direction: column;
+    /*Push Madas section under nav bar*/
+    margin-top: 64.4px;
 }
 
 #photo {
