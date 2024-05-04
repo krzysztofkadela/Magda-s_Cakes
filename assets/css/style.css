@@ -112,6 +112,12 @@ footer {
 }
 #location{
     color: azure;
-    text-align: center;
+    align-items: center;
     padding: 20px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#location ul {
+    list-style-type: none;
 }
