@@ -98,24 +98,25 @@ nav {
     text-align: center;
 }
 
+/*Main section*/
+main {
+    flex: 1 0 auto;
+    margin-bottom: 60px;
+}
+
 /*Section Magda*/
 #magda {
     display: flex;
     width: 100%;
     flex-direction: column;
-    /*Push Madas section under nav bar*/
+    /*Push Magdas section under nav bar*/
     margin-top: 64.4px;
 }
 
 #photo {
     height: 600px;
     width: 100%;
-    background: url("../css/images/vecteezy_ai-generated-a-pink-birthday-cake-adorned-with-gold-drip-icing_35841098.jpg") no-repeat center center/cover;
-}
-
-main {
-    flex: 1 0 auto;
-    margin-bottom: 60px;
+    background: url("../css/images/vecteezy_ai-generated-a-female-baker-and-entrepreneur-the-owner-of-a_40455844.jpg") no-repeat center center/cover;
 }
 
 /*Footer*/
