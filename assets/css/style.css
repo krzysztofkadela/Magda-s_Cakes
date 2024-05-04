@@ -80,11 +80,17 @@ footer {
     height: auto;
     display: flex;
     flex-flow: column;
-    align-items: center;
+    align-items:center;
+}
+.contact{
+    height: 60px;
 }
 #social_media{
     list-style-type: none;
-    
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+
 }
 #social_media i {
     color: #f6f8f2f5;
@@ -93,5 +99,5 @@ footer {
 }
 #hours{
     color: aliceblue;
-
+     margin-top: 1%;
 }
