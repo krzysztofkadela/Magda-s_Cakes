@@ -122,6 +122,10 @@ main {
     border-radius: 5%;
     top: 50%;
     left: 40%;
+    text-align: center;
+    font-size: small;
+    color: yellow;
+    padding: 5px 10px;
 }
 
 /*Products section*/
