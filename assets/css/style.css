@@ -105,15 +105,8 @@ main {
 }
 
 /*Section Magda*/
-#magda {
-    /*display: flex;*/
-    width: 100%;
-    /*flex-direction: column;*/
-    /*Push Magdas section under nav bar*/
-    margin-top: 64.4px;
-}
 
-#photo {
+#magda {
     height: 600px;
     width: 100%;
     background: url("../css/images/vecteezy_ai-generated-a-female-baker-and-entrepreneur-the-owner-of-a_40455844.jpg") no-repeat center center/cover;
@@ -127,14 +120,8 @@ main {
     border-radius: 5%;
     top: 50%;
     left: 40%;
-    
 }
-#magdas_hero_skils{
-    height: auto;
-    width: auto;
-    text-align: center;
-    font-weight: 300;
-}
+
 /*Products section*/
 #products{
     display: flex;
