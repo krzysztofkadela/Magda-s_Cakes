@@ -135,6 +135,17 @@ main {
     text-align: center;
     font-weight: 300;
 }
+/*Products section*/
+#products{
+    display: flex;
+    flex-direction: column;
+}
+.product_container{
+    width: 100%;
+    background-color: aqua;
+    border: 2px solid black;
+
+}
 
 /*Footer*/
 footer {
