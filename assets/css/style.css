@@ -106,9 +106,9 @@ main {
 
 /*Section Magda*/
 #magda {
-    display: flex;
+    /*display: flex;*/
     width: 100%;
-    flex-direction: column;
+    /*flex-direction: column;*/
     /*Push Magdas section under nav bar*/
     margin-top: 64.4px;
 }
