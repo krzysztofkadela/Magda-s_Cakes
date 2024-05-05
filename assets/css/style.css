@@ -101,7 +101,6 @@ nav {
 /*Main section*/
 main {
     flex: 1 0 auto;
-    margin-bottom: 60px;
     margin-top: 60px;
     display: flex;
     flex-direction: column;
