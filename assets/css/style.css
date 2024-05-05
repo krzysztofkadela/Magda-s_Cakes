@@ -103,6 +103,8 @@ main {
     flex: 1 0 auto;
     margin-bottom: 60px;
     margin-top: 64.4px;
+    display: flex;
+    flex-direction: column;
 }
 
 /*Section Magda*/
