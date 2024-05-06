@@ -171,14 +171,15 @@ main {
     font-size: small;
 }
 /*Gallery*/
+
 .photos{
     padding: 10px 10px;
-    column-count: 2;
-    align-items: center;
+    text-align: center;
 }
 .photos img{
-    width: 90%;
+    width: 100%;
     border-radius: 5px;
+    padding: 10px;
 }
 /*Footer*/
 footer {
