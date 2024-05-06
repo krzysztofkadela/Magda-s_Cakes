@@ -171,7 +171,10 @@ main {
     font-size: small;
 }
 /*Gallery*/
-
+.photos{
+    padding: 10px 10px;
+    
+}
 /*Footer*/
 footer {
     background-color: black;
