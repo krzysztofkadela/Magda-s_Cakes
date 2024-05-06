@@ -171,10 +171,15 @@ main {
     font-size: small;
 }
 /*Gallery*/
-
+#comunion_gallery{
+    background-color: rgb(155, 222, 200);
+}
 .photos{
+    display: flex;
+    flex-direction: column;
     padding: 10px 10px;
     text-align: center;
+    width: 100%;
 }
 .photos img{
     width: 100%;
