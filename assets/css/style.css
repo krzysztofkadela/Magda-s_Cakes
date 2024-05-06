@@ -173,7 +173,12 @@ main {
 /*Gallery*/
 .photos{
     padding: 10px 10px;
-    
+    column-count: 2;
+    align-items: center;
+}
+.photos img{
+    width: 90%;
+    border-radius: 5px;
 }
 /*Footer*/
 footer {
