@@ -140,6 +140,16 @@ main {
 #comunion{
     background: url("../images/vecteezy_cut-peice-white-chocolate-cake-with-berries_3723761.jpg") no-repeat center/cover;
 }
+#wedding{
+    background: url("../images/vecteezy_celebratory-wedding-cake-with-decorative-chocolate-elegance_24622569.jpg") no-repeat center/cover;
+}
+#birthday{
+    background: url("../images/date-of-birth-2901945_1280.jpg") no-repeat center/cover;
+}
+#cupcakes{
+    background: url("../images/vecteezy_ai-generated-cute-homemade-cupcake-with-pink-icing_40559197.jpg") no-repeat center/cover;
+}
+
 .text{
     background-color: rgb(7, 60, 60);
     text-align: center;
