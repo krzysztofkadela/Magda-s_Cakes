@@ -130,12 +130,22 @@ main {
 }
 
 /*Products section*/
+#products{
+    background-color: rgb(99, 190, 159);
+    padding-bottom: 10px;
+}
+.product_section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .product_img{
-    height: 60vw;
-    width: 60vw;
+    height: 90vw;
+    width: 90vw;
     border-radius: 5%;
-    max-width: 250px;
+    max-width: 300px;
     max-height: 250px;
+    margin-top: 10px;
 }
 #comunion{
     background: url("../images/vecteezy_cut-peice-white-chocolate-cake-with-berries_3723761.jpg") no-repeat center/cover;
@@ -151,9 +161,14 @@ main {
 }
 
 .text{
-    background-color: rgb(7, 60, 60);
+    background-color: rgb(175, 216, 238);
     text-align: center;
     padding: 2px 2px;
+    height: 60px;
+    width: 216px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: small;
 }
 
 /*Footer*/
