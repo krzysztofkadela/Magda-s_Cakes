@@ -130,7 +130,16 @@ main {
 }
 
 /*Products section*/
-
+.product_img{
+    height: 60vw;
+    width: 60vw;
+    border-radius: 5%;
+    max-width: 250px;
+    max-height: 250px;
+}
+#comunion{
+    background: url("../images/vecteezy_cut-peice-white-chocolate-cake-with-berries_3723761.jpg") no-repeat center/cover;
+}
 
 /*Footer*/
 footer {
