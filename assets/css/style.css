@@ -208,11 +208,12 @@ main {
 }
 .text-input{
     background-color: aquamarine;
-    width: 100%;
+    width: 60%;
     height: 25px;
     border-color: 2px solid #3a3a3a;
     border-radius: 5px;
 }
+
 /*Footer*/
 footer {
     background-color: black;
