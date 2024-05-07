@@ -171,6 +171,14 @@ main {
     font-size: small;
 }
 /*Gallery*/
+#gallery h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: xx-large;
+    font-weight: 400;
+    text-align: center;
+
+}
 #comunion_gallery{
     background-color: rgb(155, 222, 200);
 }
