@@ -234,9 +234,6 @@ main {
 .text-input::placeholder {
   color: #353638;
 }
-.text_input_message::placeholder {
-    color: #353638;
-  }
 
 
 /*Footer*/
