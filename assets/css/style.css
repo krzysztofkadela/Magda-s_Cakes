@@ -221,6 +221,11 @@ main {
     display: flex;
     flex-direction: column;
 }
+.text_input_message{
+    background-color: #73d9e0;
+    width: 60%;
+    height: 25vh;
+}
 
 /*Footer*/
 footer {
