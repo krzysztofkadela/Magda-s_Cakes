@@ -210,22 +210,34 @@ main {
     margin: 15px 15px;
     
 }
+
+.form_section{
+    display: flex;
+    flex-direction: column;
+}
+
 .text-input{
     background-color: aquamarine;
     width: 60%;
     height: 25px;
     border-color: 2px solid #3a3a3a;
     border-radius: 5px;
-}
-.form_section{
     display: flex;
-    flex-direction: column;
 }
+
 .text_input_message{
     background-color: #73d9e0;
     width: 60%;
     height: 25vh;
+
 }
+.text-input::placeholder {
+  color: #353638;
+}
+.text_input_message::placeholder {
+    color: #353638;
+  }
+
 
 /*Footer*/
 footer {
