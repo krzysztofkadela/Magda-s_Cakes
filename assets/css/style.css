@@ -255,6 +255,13 @@ main {
 .text-input::placeholder {
   color: #353638;
 }
+.submit_button{
+    background-color: #263b82;
+    color: #b1ec33;
+    width: 60%;
+    height: 25px;
+    box-shadow: 10px 5px 5px red;
+}
 
 
 /*Footer*/
