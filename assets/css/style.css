@@ -171,6 +171,30 @@ main {
     font-size: small;
 }
 /*Gallery*/
+
+/*Magda section only for gallery*/
+#magda_gallery {
+    height: 300px;
+    width: 100%;
+    background: url("../images/vecteezy_ai-generated-young-handsome-pastry-chef-bakes-a-wedding_38469292.jpeg") no-repeat center center/cover;
+    position: relative;
+}
+#about_gallery{
+    background-color: rgba(162, 205, 223, 0.7);
+    position: absolute;
+    border: 2px solid #3a3a3a;
+    width: 160px;
+    height: 160px;
+    border-radius: 5%;
+    top: 50%;
+    left: 40%;
+    text-align: center;
+    font-size: small;
+    color: yellow;
+    padding: 5px 10px;
+}
+
+
 #gallery h2{
     padding-left: 10px;
     padding-top: 10px;
