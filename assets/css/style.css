@@ -256,13 +256,14 @@ main {
   color: #353638;
 }
 .submit_button{
-    background-color: #263b82;
-    color: #b1ec33;
+    background-color: rgba(60, 63, 65, 0.9);
+    color: #e9ede0;
     width: 60%;
     height: 25px;
-    box-shadow: 10px 5px 5px red;
+    box-shadow: 5px 5px 5px rgb(150, 191, 217);
+    margin-top: 30px;
+    margin-bottom: 25px;
 }
-
 
 /*Footer*/
 footer {
