@@ -216,16 +216,20 @@ main {
     background-color: rgb(187, 76, 231);
 }
 .photos{
+    /*
     display: flex;
     flex-direction: column;
     padding: 10px 10px;
     text-align: center;
-    width: 100%;
+    width: 100%;*/
+    padding: 1px 1px;
+    column-count: 2;
+    
 }
 .photos img{
     width: 100%;
     border-radius: 5px;
-    padding: 10px;
+    padding: 1px;
 }
 /*ContactUs section*/
 
