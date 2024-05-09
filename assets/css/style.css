@@ -298,7 +298,7 @@ main {
 
 /*Footer*/
 footer {
-    background-color: black;
+    background-color: rgb(24, 24, 24);
     width: 100%;
     height: auto;
     display: flex;
@@ -350,4 +350,8 @@ footer {
 #location ul {
     list-style-type: none;
     text-align: center;
+    
+}
+.contact h3{
+    color: azure;
 }
