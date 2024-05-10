@@ -95,10 +95,7 @@ nav {
 }
 
 
-#maps {
-    font-size: xx-large;
-    text-align: center;
-}
+
 
 /*Main section*/
 main {
@@ -116,7 +113,8 @@ main {
     background: url("../images/vecteezy_ai-generated-a-female-baker-and-entrepreneur-the-owner-of-a_40455844.jpg") no-repeat center center/cover;
     position: relative;
 }
-#about{
+
+#about {
     background-color: rgba(162, 205, 223, 0.7);
     position: absolute;
     border: 2px solid #3a3a3a;
@@ -130,8 +128,9 @@ main {
     color: yellow;
     padding: 5px 10px;
 }
+
 /*My story section*/
-#my_story{
+#my_story {
     font-size: 25px;
     font-weight: 700;
     display: flex;
@@ -140,14 +139,16 @@ main {
     align-items: center;
     padding-top: 20px;
     padding-bottom: 20px;
-    
+
 }
-#my_story h2{
+
+#my_story h2 {
     font-family: "Tangerine", sans-serif;
     font-weight: 700;
     font-size: 45px;
 }
-.text_my_story{
+
+.text_my_story {
     height: 25vh;
     width: 90vw;
     background-color: #e2eae8f8;
@@ -156,17 +157,20 @@ main {
     margin-top: 5px;
 
 }
+
 /*Products section*/
-#products{
+#products {
     background-color: rgb(99, 190, 159);
     padding-bottom: 10px;
 }
-.product_section{
+
+.product_section {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.product_img{
+
+.product_img {
     height: 90vh;
     width: 90vw;
     border-radius: 5%;
@@ -176,20 +180,24 @@ main {
     margin-top: 10px;
     */
 }
-#comunion{
+
+#comunion {
     background: url("../images/vecteezy_cake-for-catholic-christening_2442607.JPG") no-repeat center/cover;
 }
-#wedding{
+
+#wedding {
     background: url("../images/vecteezy_celebratory-wedding-cake-with-decorative-chocolate-elegance_24622569.jpg") no-repeat center/cover;
 }
-#birthday{
+
+#birthday {
     background: url("../images/date-of-birth-2901945_1280.jpg") no-repeat center/cover;
 }
-#cupcakes{
+
+#cupcakes {
     background: url("../images/vecteezy_ai-generated-cute-homemade-cupcake-with-pink-icing_40559197.jpg") no-repeat center/cover;
 }
 
-.text{
+.text {
     background-color: rgb(175, 216, 238);
     text-align: center;
     padding: 2px 2px;
@@ -199,6 +207,7 @@ main {
     border-radius: 5px;
     font-size: small;
 }
+
 /*Gallery*/
 
 /*Magda section only for gallery*/
@@ -208,7 +217,8 @@ main {
     background: url("../images/vecteezy_ai-generated-young-handsome-pastry-chef-bakes-a-wedding_38469292.jpeg") no-repeat center center/cover;
     position: relative;
 }
-#about_gallery{
+
+#about_gallery {
     background-color: rgba(162, 205, 223, 0.7);
     position: absolute;
     border: 2px solid #3a3a3a;
@@ -222,13 +232,15 @@ main {
     color: rgb(39, 39, 29);
     padding: 10px 10px;
 }
-#about_gallery h2, p{
-   font-weight: 800;
-   font-size: 15px;
+
+#about_gallery h2,
+p {
+    font-weight: 800;
+    font-size: 15px;
 }
 
 
-#gallery h2{
+#gallery h2 {
     padding-left: 10px;
     padding-top: 10px;
     font-size: 22px;
@@ -236,17 +248,21 @@ main {
     text-align: center;
 
 }
-#communion_gallery{
+
+#communion_gallery {
     background-color: rgb(155, 222, 200);
 }
-#wedding_gallery{
+
+#wedding_gallery {
     background-color: rgb(104, 152, 219);
 }
-#birthday_cakes{
+
+#birthday_cakes {
     background-color: rgb(187, 76, 231);
 }
-.photos{
-    
+
+.photos {
+
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -254,16 +270,18 @@ main {
     padding: 1px 1px;
     /*
     column-count: 2; */
-    
+
 }
-.photos img{
+
+.photos img {
     width: 100%;
     border-radius: 5px;
     padding: 1px;
 }
+
 /*ContactUs section*/
 
-#contact_us{
+#contact_us {
     /*Background photo and photo position*/
     background-image: url("../images/pexels-micheile-8140785.jpg");
     background-size: cover;
@@ -273,7 +291,7 @@ main {
     flex-grow: 1;
 }
 
-#contact_us_form{
+#contact_us_form {
     background-color: rgba(6, 49, 67, 0.7);
     color: #ecf1f1;
     padding: 1px 5px;
@@ -281,10 +299,10 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+
 }
 
-#contact_us_form h2{
+#contact_us_form h2 {
     color: #93e9d4;
     text-align: center;
     background-color: rgba(52, 98, 117, 0.7);
@@ -292,7 +310,7 @@ main {
     font-weight: 400;
 }
 
-.form_section{
+.form_section {
     margin-top: 30px;
     display: flex;
     flex-direction: column;
@@ -300,7 +318,7 @@ main {
 }
 
 
-.text-input{
+.text-input {
     background-color: rgba(162, 205, 223, 0.7);
     width: 100%;
     height: 35px;
@@ -309,17 +327,19 @@ main {
     display: flex;
 }
 
-.text_input_message{
+.text_input_message {
     background-color: rgba(162, 205, 223, 0.7);
     width: 100%;
     height: 25vh;
 
 }
+
 .text-input::placeholder {
-  color: #353638;
-  font-size: 12px;
+    color: #353638;
+    font-size: 12px;
 }
-.submit_button{
+
+.submit_button {
     background-color: rgba(60, 63, 65, 0.9);
     color: #e9ede0;
     width: 60%;
@@ -383,8 +403,15 @@ footer {
 #location ul {
     list-style-type: none;
     text-align: center;
-    
+
 }
-.contact h3{
+
+#maps {
+    font-size: xx-large;
+    text-align: center;
+    color: azure;
+}
+
+.contact h3 {
     color: azure;
 }
