@@ -22,10 +22,11 @@ body {
 h1,
 h2,
 h3 {
+    font-family: "Tangerine", sans-serif;
     color: black;
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
     font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
 }
 
 /*Header*/
@@ -48,10 +49,11 @@ header a {
 }
 
 #logo {
+    /*
+    font-family: "Roboto", sans-serif;*/
     color: black;
-    font-size: 25px;
+    font-size: 45px;
     padding: 20px 2px;
-    font-weight: 400;
 }
 
 #nav-bar-side {
@@ -200,12 +202,12 @@ main {
     background: url("../images/vecteezy_ai-generated-cute-homemade-cupcake-with-pink-icing_40559197.jpg") no-repeat center/cover;
 }
 
-.text {
+.products_text {
     background-color: rgb(175, 216, 238);
     text-align: center;
     padding: 2px 2px;
-    height: 60px;
-    width: 216px;
+    height: 80px;
+    width: 90%;
     border: 2px solid black;
     border-radius: 5px;
     font-size: small;
@@ -235,19 +237,20 @@ main {
     color: rgb(39, 39, 29);
     padding: 10px 10px;
 }
-
-#about_gallery h2,
+#about_gallery h2{
+    font-size: 24px;
+}
+#about_gallery 
 p {
-    font-weight: 800;
-    font-size: 15px;
+    font-weight: 600;
+    font-size: 12px;
 }
 
 
 #gallery h2 {
     padding-left: 10px;
     padding-top: 10px;
-    font-size: 22px;
-    font-weight: 400;
+    font-size: 35px;
     text-align: center;
 
 }
@@ -416,5 +419,7 @@ footer {
 }
 
 .contact h3 {
+    font-family: "Roboto", sans-serif;
     color: azure;
+    font-size: 20px;
 }
