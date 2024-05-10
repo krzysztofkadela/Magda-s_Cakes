@@ -212,18 +212,19 @@ main {
     background-color: rgba(162, 205, 223, 0.7);
     position: absolute;
     border: 2px solid #3a3a3a;
-    width: 120px;
+    width: 230px;
     height: 110px;
     border-radius: 5%;
     top: 60%;
-    left: 10%;
+    left: 5%;
     text-align: center;
     font-size: 9px;
     color: rgb(39, 39, 29);
     padding: 10px 10px;
 }
 #about_gallery h2, p{
-   font-weight: 400;
+   font-weight: 800;
+   font-size: 15px;
 }
 
 
@@ -235,7 +236,7 @@ main {
     text-align: center;
 
 }
-#comunion_gallery{
+#communion_gallery{
     background-color: rgb(155, 222, 200);
 }
 #wedding_gallery{
@@ -245,14 +246,14 @@ main {
     background-color: rgb(187, 76, 231);
 }
 .photos{
-    /*
+    
     display: flex;
     flex-direction: column;
-    padding: 10px 10px;
     text-align: center;
-    width: 100%;*/
+    width: 100%;
     padding: 1px 1px;
-    column-count: 2;
+    /*
+    column-count: 2; */
     
 }
 .photos img{
