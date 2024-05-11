@@ -59,14 +59,17 @@ header a {
 }
 
 #nav_bar_side {
-    font-size: 110%;
+    font-size: 100%;
     letter-spacing: 2px;
     list-style-type: none;
 }
 
-.nav-li>a {
+.nav-li > a {
     color: black;
-    padding-top: 10px;
+    padding-top: 5px;
+}
+.nav-li{
+    margin-top: 5px;
 }
 
 /*navigation bar hiden*/
@@ -83,6 +86,7 @@ nav {
     left: 62%;
     display: none;
     top: 100%;
+    padding-bottom: 5px;
 }
 
 /* Nav toggle */
