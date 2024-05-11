@@ -322,6 +322,7 @@ p {
     background-color: rgba(52, 98, 117, 0.7);
     border-radius: 10px;
     font-weight: 400;
+    padding-top: 10px;
 }
 
 .form_section {
