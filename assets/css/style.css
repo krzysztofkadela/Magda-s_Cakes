@@ -163,12 +163,15 @@ main {
     border-radius: 5px;
     margin-top: 5px;
     padding: 5px 5px;
-
+    
 }
 .my_story_list{
     display: flex;
     flex-direction: column;
     padding-left: 40px;
+}
+.my_story_list li{
+    margin-top: 15px;
 }
 
 /*Products section*/
