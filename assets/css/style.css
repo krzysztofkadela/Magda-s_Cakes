@@ -336,7 +336,7 @@ p {
     background-color: rgba(162, 205, 223, 0.7);
     width: 100%;
     height: 35px;
-    border-color: 2px solid #3a3a3a;
+    border: 2px solid #3a3a3a;
     border-radius: 5px;
     display: flex;
 }
@@ -357,7 +357,7 @@ p {
     background-color: rgba(60, 63, 65, 0.9);
     color: #e9ede0;
     width: 60%;
-    height: 25px;
+    height: 30px;
     box-shadow: 5px 5px 5px rgb(150, 191, 217);
     margin-top: 30px;
     margin-bottom: 25px;
@@ -430,4 +430,14 @@ footer {
     font-family: "Roboto", sans-serif;
     color: azure;
     font-size: 20px;
+}
+
+/* Media query */
+
+/*Media query (
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
