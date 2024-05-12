@@ -64,11 +64,12 @@ header a {
     list-style-type: none;
 }
 
-.nav-li > a {
+.nav-li>a {
     color: black;
     padding-top: 5px;
 }
-.nav-li{
+
+.nav-li {
     margin-top: 5px;
 }
 
@@ -138,7 +139,8 @@ main {
     padding: 5px 10px;
     min-height: 76px;
 }
-#about h2{
+
+#about h2 {
     font-family: "Tangerine", sans-serif;
     font-weight: 700;
     font-size: 35px;
@@ -164,7 +166,7 @@ main {
     font-size: 40px;
     padding-top: 5px;
     padding-left: 10px;
-    border-bottom:2px solid #3a3a3a;
+    border-bottom: 2px solid #3a3a3a;
 }
 
 .text_my_story {
@@ -173,21 +175,24 @@ main {
     background-color: #e2eae8f8;
     border-radius: 5px;
     margin-top: 5px;
-    padding: 14px 5px; 
+    padding: 14px 5px;
     display: flex;
     flex-direction: column;
     align-items: center;
     min-height: 268px;
 }
-#something_about_me{
+
+#something_about_me {
     min-height: 350px;
 }
-.my_story_list{
+
+.my_story_list {
     display: flex;
     flex-direction: column;
     padding-left: 40px;
 }
-.my_story_list li{
+
+.my_story_list li {
     margin-top: 15px;
 }
 
@@ -264,15 +269,15 @@ main {
     color: rgb(39, 39, 29);
     padding: 10px 10px;
 }
-#about_gallery h2{
+
+#about_gallery h2 {
     font-size: 24px;
 }
-#about_gallery 
-p {
+
+#about_gallery p {
     font-weight: 600;
     font-size: 12px;
 }
-
 
 #gallery h2 {
     padding-left: 10px;
@@ -448,6 +453,7 @@ footer {
 /*Media query for screens min 700px*/
 
 @media screen and (min-width: 700px) {
+
     /*Magda section*/
     #about {
         border-radius: 10px;
@@ -458,30 +464,51 @@ footer {
         padding-top: 20px;
     }
 
-    #about h2{
+    #about h2 {
         font: size 65px;
         font-weight: 700;
     }
 
     /*My story Ssection*/
-    #my_story{
+    #my_story {
         font-size: 22px;
     }
 
-    .text_my_story{
-    height: 300px;
-   }
-   
-   /*Product section*/
-   
-   .products_text{
-    font-size: 22px;
-   }
-   .product_section h2{
-    font-size: 45px;
-   }
+    .text_my_story {
+        height: 300px;
+    }
 
-   /*Gallery Section*/
-  
-  
+    /*Product section*/
+
+    .products_text {
+        font-size: 22px;
+    }
+
+    .product_section h2 {
+        font-size: 45px;
+    }
+
+    /*Gallery Section*/
+
+    #magda_gallery {
+        height: 400px;
+    }
+    #about_gallery{
+        width: 430px;
+        height: 110px;
+        top: 60%;
+        left: 5%;
+        font-size: 9px;
+        padding: 10px 10px; 
+    }
+
+    #about_gallery h2 {
+        font-size: 26px;
+    }
+
+    #about_gallery p {
+        font-weight: 600;
+        font-size: 16px;
+    }
+
 }
