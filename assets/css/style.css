@@ -172,8 +172,10 @@ main {
     background-color: #e2eae8f8;
     border-radius: 5px;
     margin-top: 5px;
-    padding: 5px 5px;
-    
+    padding: 5px 5px; 
+}
+#something_about_me{
+    height: 320px;
 }
 .my_story_list{
     display: flex;
