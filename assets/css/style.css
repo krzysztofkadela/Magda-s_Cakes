@@ -473,8 +473,25 @@ footer {
     }
 
     /*Product section*/
+    #products{
+        display: flex;
+        flex-direction: row;
+        justify-items: center;
+    }
+    .product_section {
+        align-items: center;
+        padding-top: 5px;
+    }
     
+    .product_img {
+        height: 25vw;
+        width: 260px;
+        border-radius: 5%;
+    }
+
     .products_text {
+        height: 80px;
+        width: 50%;
         font-size: 22px;
     }
 
