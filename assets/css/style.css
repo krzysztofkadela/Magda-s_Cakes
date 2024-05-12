@@ -192,9 +192,6 @@ main {
     padding-left: 40px;
 }
 
-.my_story_list li {
-    margin-top: 15px;
-}
 
 /*Products section*/
 #products {
@@ -244,7 +241,6 @@ main {
     border-radius: 5px;
     font-size: small;
 }
-
 /*Gallery*/
 
 /*Magda section only for gallery*/
