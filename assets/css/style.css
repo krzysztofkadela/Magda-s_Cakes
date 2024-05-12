@@ -489,13 +489,14 @@ footer {
     }
 
     .products_text {
-        height: 39px;
-        width: 45vh;
-        font-size: 12px;
+        height: 66px;
+        width: 39vw;
+        font-size: 15px;
+        font-weight: 800;
     }
 
     .product_section h2 {
-        font-size: 18px;
+        font-size: 24px;
     }
     
     /*Gallery Section*/
