@@ -206,13 +206,16 @@ main {
     align-items: center;
     padding-top: 5px;
 }
+.product_section h2{
+    margin-top: 10px;
+}
 
 .product_img {
     height: 40vh;
     width: 90vw;
     border-radius: 5%;
-
 }
+
 
 #comunion {
     background: url("../images/vecteezy_cake-for-catholic-christening_2442607.JPG") no-repeat center/cover;
@@ -238,7 +241,6 @@ main {
     width: 90%;
     border: 2px solid black;
     border-radius: 5px;
-    font-size: small;
 }
 /*Gallery*/
 
@@ -305,7 +307,7 @@ main {
     padding: 1px;
 }
 
-/*ContactUs section*/
+/*Contact Us section*/
 
 #contact_us {
     /*Background photo and photo position*/
@@ -448,6 +450,24 @@ footer {
 /*Media query for screens min 700px*/
 
 @media screen and (min-width: 700px) {
+    /*Navigation bar*/
+    nav{
+        display: block;
+        position: relative;
+        width: fit-content;
+        left: 0;
+        height: 60px;
+    }
+    .menu_label{
+        display: none;
+    }
+    #nav_bar_side{
+        display: flex;
+    }
+    .nav-li{
+        font-size: 25px;
+        margin: 5px 19px;
+    }
 
     /*Magda section*/
     #about {
@@ -484,19 +504,17 @@ footer {
 
     .product_img {
         height: 35vh;
-        width: 45vw;
+        width: 48vw;
         border-radius: 5%;
     }
 
     .products_text {
         height: 66px;
-        width: 39vw;
-        font-size: 15px;
-        font-weight: 800;
+        width: 41vw;
     }
 
     .product_section h2 {
-        font-size: 24px;
+        margin-top: 10px;
     }
     
     /*Gallery Section*/
@@ -528,8 +546,7 @@ footer {
 }
 @media screen and (min-width: 900px) {
     #products{
-        display: flex;
-        flex-direction: row;
+        column-count: 4;
     }
     .product_section {
         padding-top: 5px;
@@ -543,12 +560,12 @@ footer {
     }
 
     .products_text {
-        height: 80px;
-        width: 50%;
-        font-size: 22px;
+        height: 50px;
+        width: 90%;
     }
 
     .product_section h2 {
-        font-size: 15px;
+        font-size: 35px;
+        margin-top: 5px;
     }
 }
