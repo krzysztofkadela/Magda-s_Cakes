@@ -211,11 +211,6 @@ main {
     height: 40vh;
     width: 90vw;
     border-radius: 5%;
-    /*
-    max-width: 300px;
-    max-height: 250px;
-    margin-top: 10px;
-    */
 }
 
 #comunion {
@@ -284,7 +279,6 @@ p {
     padding-top: 10px;
     font-size: 35px;
     text-align: center;
-
 }
 
 #communion_gallery {
@@ -300,10 +294,6 @@ p {
 }
 
 .photos {
-/*
-    display: flex;
-    flex-direction: column;
-    */
     text-align: center;
     width: 100%;
     padding: 1px 1px;
@@ -458,6 +448,20 @@ footer {
 /*Media query for screens min 700px*/
 
 @media screen and (min-width: 700px) {
+    /*Magda section*/
+    #about {
+        border-radius: 10px;
+        width: 360px;
+        height: fit-content;
+        top: 70%;
+        left: 45%;
+        padding-top: 20px;
+    }
+
+    #about h2{
+        font: size 65px;
+        font-weight: 700;
+    }
 
     /*My story Ssection*/
     #my_story{
