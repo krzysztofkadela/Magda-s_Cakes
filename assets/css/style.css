@@ -196,6 +196,8 @@ main {
     background-color: rgb(99, 190, 159);
     padding-bottom: 10px;
     padding: 10px 5px;
+    display: flex;
+    flex-direction: column;
 }
 
 .product_section {
@@ -298,15 +300,13 @@ p {
 }
 
 .photos {
-
+/*
     display: flex;
     flex-direction: column;
+    */
     text-align: center;
     width: 100%;
     padding: 1px 1px;
-    /*
-    column-count: 2; */
-
 }
 
 .photos img {
@@ -407,7 +407,6 @@ footer {
     display: flex;
     flex-flow: row;
     justify-content: space-evenly;
-
 }
 
 #social_media i {
@@ -440,7 +439,6 @@ footer {
 #location ul {
     list-style-type: none;
     text-align: center;
-
 }
 
 #maps {
@@ -471,11 +469,15 @@ footer {
    }
    
    /*Product section*/
+   
    .products_text{
     font-size: 22px;
    }
    .product_section h2{
     font-size: 45px;
    }
+
+   /*Gallery Section*/
+  
   
 }
