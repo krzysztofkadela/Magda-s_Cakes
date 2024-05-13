@@ -468,7 +468,7 @@ footer {
         display: flex;
     }
     .nav-li{
-        font-size: 25px;
+        font-size: 22px;
         margin: 5px 19px;
     }
 
@@ -483,13 +483,16 @@ footer {
     }
 
     #about h2 {
-        font: size 65px;
+        font-size: 45px;
         font-weight: 700;
     }
 
     /*My story Ssection*/
     #my_story {
         font-size: 22px;
+    }
+    #my_story h2{
+        font-size: 45px;
     }
 
     .text_my_story {
@@ -507,6 +510,7 @@ footer {
 
     .product_img {
         height: 35vh;
+        min-height: 260px;
         width: 48vw;
         border-radius: 5%;
     }
@@ -518,6 +522,7 @@ footer {
 
     .product_section h2 {
         margin-top: 10px;
+        font-size: 45px;
     }
     
     /*Gallery Section*/
@@ -548,6 +553,7 @@ footer {
 
 }
 @media screen and (min-width: 900px) {
+
     #products{
         column-count: 4;
     }
