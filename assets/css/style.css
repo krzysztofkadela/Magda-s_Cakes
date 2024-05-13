@@ -468,7 +468,7 @@ footer {
         display: flex;
     }
     .nav-li{
-        font-size: 22px;
+        font-size: 21px;
         margin: 5px 19px;
     }
 
@@ -550,6 +550,12 @@ footer {
     .photos {
         column-count: 2;
     }
+    /*Form for contact_us.html*/
+    #contact_us_form{
+        max-width: 400px;
+        margin-left: 50vw;
+     }
+     
 
 }
 @media screen and (min-width: 900px) {
@@ -606,5 +612,6 @@ footer {
         padding: 0;
         column-gap: 0;
     }
+
 
 }
