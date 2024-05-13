@@ -557,8 +557,9 @@ footer {
     }
     
     .product_img {
-        height: 25vw;
-        width: 260px;
+        height: 20vh;
+        width: 23.9vw;
+        min-width: 220px;
         border-radius: 5%;
     }
 
