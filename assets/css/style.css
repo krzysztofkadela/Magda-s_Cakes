@@ -583,5 +583,28 @@ footer {
         margin-top: 5px;
     }
     /*Gallery*/
+    #magda_gallery {
+        height: 800px;
+    }
+    #magda_gallery h2{
+        font-size: 45px;
+    }
+    #gallery h2 {
+        font-size: 45px;
+    }
+    #about_gallery{
+        border-radius: 20px;
+        width: 800px;
+        height: 140px;
+        top: 60%;
+        left: 5%;
+        font-size: 9px;
+        padding: 10px 10px; 
+    }
+    .photos {
+        width: 100%;
+        padding: 0;
+        column-gap: 0;
+    }
 
 }
