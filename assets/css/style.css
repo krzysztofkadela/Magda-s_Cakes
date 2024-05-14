@@ -121,7 +121,7 @@ main {
 #magda {
     height: 600px;
     width: 100%;
-    background: url("../images/vecteezy_ai-generated-a-female-baker-and-entrepreneur-the-owner-of-a_40455844.jpg") no-repeat center center/cover;
+    background: url("../images/female-baker.jpg") no-repeat center center/cover;
     position: relative;
 }
 
@@ -217,19 +217,19 @@ main {
 
 
 #comunion {
-    background: url("../images/vecteezy_cake-for-catholic-christening_2442607.JPG") no-repeat center/cover;
+    background: url("../images/catholic-christening.JPG") no-repeat center/cover;
 }
 
 #wedding {
-    background: url("../images/vecteezy_celebratory-wedding-cake-with-decorative-chocolate-elegance_24622569.jpg") no-repeat center/cover;
+    background: url("../images/celebratory-wedding.jpg") no-repeat center/cover;
 }
 
 #birthday {
-    background: url("../images/date-of-birth-2901945_1280.jpg") no-repeat center/cover;
+    background: url("../images/date-of-birth.jpg") no-repeat center/cover;
 }
 
 #cupcakes {
-    background: url("../images/vecteezy_ai-generated-cute-homemade-cupcake-with-pink-icing_40559197.jpg") no-repeat center/cover;
+    background: url("../images/cupcake-with-pink-icing.jpg") no-repeat center/cover;
 }
 
 .products_text {
@@ -247,7 +247,7 @@ main {
 #magda_gallery {
     height: 300px;
     width: 100%;
-    background: url("../images/vecteezy_ai-generated-young-handsome-pastry-chef-bakes-a-wedding_38469292.jpeg") no-repeat center center/cover;
+    background: url("../images/young-handsome.jpeg") no-repeat center center/cover;
     position: relative;
 }
 
@@ -313,7 +313,7 @@ main {
 
 #contact_us {
     /*Background photo and photo position*/
-    background-image: url("../images/pexels-micheile-8140785.jpg");
+    background-image: url("../images/micheile.jpg");
     background-size: cover;
     background-position: 65%;
     /*Padding to move away from edges*/
