@@ -265,6 +265,9 @@ main {
     color: rgb(39, 39, 29);
     padding: 10px 10px;
 }
+#hidden_heading{
+    display: none;
+}
 
 #about_gallery h2 {
     font-size: 24px;
