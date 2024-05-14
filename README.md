@@ -1,12 +1,12 @@
 # Magda's Cakes
 
-Magda's Cakes website is the website of a small home bakery run by a single chef, Magda
+Magda's Cakes website is the website of a small home bakery run by a single chef, Magda and here friend Mick.
 
 There you can find information about what types of products are on offer,
 
 the website contains photo galleries of wonderful and delicious cakes ordered by customers in the past.
 
-There is also a section with contact details and a link to a map with the bakery's location.
+
 
 
 ## Features
@@ -14,7 +14,7 @@ There is also a section with contact details and a link to a map with the bakery
    <li> Header
    <ul>
    <li>The page header will include the name in the upper left corner.
-   <li>In the middle, an icon showing the position on the map, with a link to Google Maps.
+   <li>
    <li>Link to gallery and contact us on the right. Contact Us link to the inquiry form.
    </ul>
    <li> Main section</li>
