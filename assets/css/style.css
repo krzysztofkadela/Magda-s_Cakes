@@ -27,7 +27,7 @@ h3 {
     color: black;
     font-style: normal;
     font-weight: 700;
-    font-size: 45px;
+    font-size: 39px;
 }
 
 /*Header*/
@@ -51,12 +51,10 @@ header a {
 }
 
 #logo {
-    /*
-    font-family: "Roboto", sans-serif;*/
     color: black;
-    font-size: 45px;
     padding: 20px 2px;
 }
+
 
 #nav_bar_side {
     font-size: 100%;
@@ -113,7 +111,7 @@ nav {
 
 main {
     flex: 1 0 auto;
-    margin-top: 90px;
+    margin-top: 84.4px;
     display: flex;
     flex-direction: column;
 }
