@@ -578,7 +578,7 @@ footer {
     .text_my_story {
         padding-top: 40px;
     }
-
+  /*product section*/
     #products {
         column-count: 4;
     }
@@ -637,6 +637,9 @@ footer {
     @media screen and (min-width: 1200px) {
 
         /*Main section*/
+        #magda{
+            height: 900px;
+        }
         /*My story Ssection*/
         #my_story {
             font-size: 28px;
