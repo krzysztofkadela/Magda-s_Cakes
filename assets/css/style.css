@@ -613,6 +613,27 @@ footer {
         padding: 0;
         column-gap: 0;
     }
+    @media screen and (min-width: 1200px) {
+        
+        /*Gallery*/
 
+        #magda_gallery {
+            height: 900px;
+        }
+        .photos{ 
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+         }
+
+        .photos img{
+            width: 25vw;
+            height: 32vh;
+        }
+        #magda_gallery h2{
+            font-size: 45px;
+        }
+        
+    }
 
 }
