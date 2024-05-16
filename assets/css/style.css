@@ -102,7 +102,7 @@ nav {
     padding-top: 10px;
 }
 
-#active{
+#active {
     background-color: rgba(104, 106, 108, 0.5);
 }
 
@@ -196,7 +196,7 @@ main {
     background-color: rgb(99, 190, 159);
     padding-bottom: 10px;
     padding: 10px 5px;
-   
+
 }
 
 .product_section {
@@ -205,7 +205,8 @@ main {
     align-items: center;
     padding-top: 5px;
 }
-.product_section h2{
+
+.product_section h2 {
     margin-top: 10px;
 }
 
@@ -241,6 +242,7 @@ main {
     border: 2px solid black;
     border-radius: 5px;
 }
+
 /*Gallery*/
 
 /*Magda section only for gallery*/
@@ -265,7 +267,8 @@ main {
     color: rgb(39, 39, 29);
     padding: 10px 10px;
 }
-#hidden_heading{
+
+#hidden_heading {
     display: none;
 }
 
@@ -452,8 +455,9 @@ footer {
 /*Media query for screens min 700px*/
 
 @media screen and (min-width: 700px) {
+
     /*Navigation bar*/
-    nav{
+    nav {
         display: block;
         position: relative;
         width: fit-content;
@@ -462,13 +466,16 @@ footer {
         box-shadow: none;
         padding: 0 1rem;
     }
-    .menu_label{
+
+    .menu_label {
         display: none;
     }
-    #nav_bar_side{
+
+    #nav_bar_side {
         display: flex;
     }
-    .nav-li{
+
+    .nav-li {
         font-size: 21px;
         margin: 5px 19px;
     }
@@ -492,7 +499,8 @@ footer {
     #my_story {
         font-size: 22px;
     }
-    #my_story h2{
+
+    #my_story h2 {
         font-size: 45px;
     }
 
@@ -501,9 +509,10 @@ footer {
     }
 
     /*Product section*/
-    #products{
+    #products {
         column-count: 2;
     }
+
     .product_section {
         text-align: center;
         margin-bottom: 20px;
@@ -525,19 +534,20 @@ footer {
         margin-top: 10px;
         font-size: 45px;
     }
-    
+
     /*Gallery Section*/
 
     #magda_gallery {
         height: 400px;
     }
-    #about_gallery{
+
+    #about_gallery {
         width: 430px;
         height: 110px;
         top: 60%;
         left: 5%;
         font-size: 9px;
-        padding: 10px 10px; 
+        padding: 10px 10px;
     }
 
     #about_gallery h2 {
@@ -548,31 +558,36 @@ footer {
         font-weight: 600;
         font-size: 16px;
     }
+
     .photos {
         column-count: 2;
     }
+
     /*Form for contact_us.html*/
-    #contact_us_form{
+    #contact_us_form {
         max-width: 400px;
         margin-left: 50vw;
-     }
-     
+    }
+
 
 }
+
 @media screen and (min-width: 900px) {
+    /*Main page My story section*/
 
     .text_my_story {
         padding-top: 40px;
     }
 
-    #products{
+    #products {
         column-count: 4;
     }
+
     .product_section {
         padding-top: 5px;
         text-align: end;
     }
-    
+
     .product_img {
         height: 20vh;
         width: 23.9vw;
@@ -589,51 +604,74 @@ footer {
         font-size: 35px;
         margin-top: 5px;
     }
+
     /*Gallery*/
     #magda_gallery {
         height: 800px;
     }
-    #magda_gallery h2{
+
+    #magda_gallery h2 {
         font-size: 45px;
     }
+
     #gallery h2 {
         font-size: 45px;
     }
-    #about_gallery{
+
+    #about_gallery {
         border-radius: 20px;
         width: 800px;
         height: 140px;
         top: 60%;
         left: 5%;
         font-size: 9px;
-        padding: 10px 10px; 
+        padding: 10px 10px;
     }
+
     .photos {
         width: 100%;
         padding: 0;
         column-gap: 0;
     }
+
     @media screen and (min-width: 1200px) {
-        
+
+        /*Main section*/
+        /*My story Ssection*/
+        #my_story {
+            font-size: 28px;
+        }
+
+        #my_story h2 {
+            font-size: 48px;
+        }
+
+        .text_my_story {
+            height: 300px;
+        }
+
+
         /*Gallery*/
 
         #magda_gallery {
             height: 900px;
         }
-        .photos{ 
+
+        .photos {
             display: flex;
             flex-direction: row;
             width: 100%;
-         }
+        }
 
-        .photos img{
+        .photos img {
             width: 25vw;
             height: 32vh;
         }
-        #magda_gallery h2{
+
+        #magda_gallery h2 {
             font-size: 45px;
         }
-        
+
     }
 
 }
