@@ -122,7 +122,7 @@ main {
 #magda {
     height: 600px;
     width: 100%;
-    background: url("../images/female-baker_new.jpg") no-repeat center center/cover;
+    background: url("../images/female-baker.webp") no-repeat center center/cover;
     position: relative;
 }
 
@@ -219,19 +219,19 @@ main {
 
 
 #comunion {
-    background: url("../images/catholic-christening.JPG") no-repeat center/cover;
+    background: url("../images/catholic-christening.webp") no-repeat center/cover;
 }
 
 #wedding {
-    background: url("../images/celebratory-wedding.jpg") no-repeat center/cover;
+    background: url("../images/celebratory-wedding.webp") no-repeat center/cover;
 }
 
 #birthday {
-    background: url("../images/date-of-birth.jpg") no-repeat center/cover;
+    background: url("../images/date-of-birth.webp") no-repeat center/cover;
 }
 
 #cupcakes {
-    background: url("../images/cupcake-with-pink-icing.jpg") no-repeat center/cover;
+    background: url("../images/cupcake-with-pink-icing.webp") no-repeat center/cover;
 }
 
 .products_text {
@@ -317,7 +317,7 @@ footer {
 #magda_gallery {
     height: 300px;
     width: 100%;
-    background: url("../images/young-handsome.jpeg") no-repeat center center/cover;
+    background: url("../images/young-handsome_new.webp") no-repeat center center/cover;
     position: relative;
 }
 
@@ -384,7 +384,7 @@ footer {
 
 #contact_us {
     /*Background photo and photo position*/
-    background-image: url("../images/micheile.jpg");
+    background-image: url("../images/micheile.webp");
     background-size: cover;
     background-position: 65%;
     /*Padding to move away from edges*/
@@ -455,7 +455,7 @@ footer {
 #magda_thank_you {
     min-height: 900px;
     width: 100%;
-    background: url("../images/young-handsome.jpeg") no-repeat center center/cover;
+    background: url("../images/young-handsome_new.webp") no-repeat center center/cover;
     position: relative;
     background-size: cover;
 }
