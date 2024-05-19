@@ -131,7 +131,7 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 
  * [HTML5](https://en.wikipedia.org/wiki/HTML5)
  * [CSS3](https://en.wikipedia.org/wiki/CSS)
-
+ ---
 ## Frameworks, Libraries & Programs Used
 
  * [Gitpod](https://www.gitpod.io/)
@@ -143,14 +143,45 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 * [Am I Responsive](https://ui.dev/amiresponsive)
     * Screenshots for README.md file.
 ---
-
----
 ## Testing
-<ul>
-<li></li>
-<li></li>
-<li></li>
-</ul>
+
+The W3C Markup Validator and W3C CSS Validator services were used to validate every page of the project to ensure there were no errors.
+
+ * [W3C Markup Validtor](https://validator.w3.org/)
+ * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+### Validation results
+
+<details>
+<summary>index.html
+</summary>
+
+![Home Page validation result](/assets/images/screenshots/ValidatorHTML.png)
+</details>
+<details>
+<summary>gallery.html
+</summary>
+
+![Gallery validation result](/assets/images/screenshots/ValidatorHTML.png)
+</details>
+<details>
+<summary>contact_us.html
+</summary>
+
+![Contact_us Page validation result](/assets/images/screenshots/ValidatorHTML.png)
+</details>
+<details>
+<summary>thank_you.html
+</summary>
+
+![Thank_you page validation result](/assets/images/screenshots/ValidatorHTML.png)
+</details>
+<details>
+<summary>style.css
+</summary>
+
+![CSS validation result](/assets/images/screenshots/Validator_css.png)
+</details>
 
 ## Bugs
 <ul>
