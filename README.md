@@ -127,6 +127,24 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
  * Wireframes
     * The main layout of the page, drawn with a pen on a piece of paper, details refined during the creation process.
 ---
+## Technologies Used
+
+ * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+ * [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+## Frameworks, Libraries & Programs Used
+
+ * [Gitpod](https://www.gitpod.io/)
+    * To write the code.
+ * [Github](https://github.com/)
+    * Deployment of the website and storing the files online.
+ * [Google Fonts](https://fonts.google.com/)
+    * Webside fonts, download links.
+* [Am I Responsive](https://ui.dev/amiresponsive)
+    * Screenshots for README.md file.
+---
+
+---
 ## Testing
 <ul>
 <li></li>
