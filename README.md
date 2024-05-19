@@ -5,24 +5,61 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 
 ![Am I Responsive](/assets/images/screenshots/HeroReademe.png)
 
+## Table of Contents
+
+### [User Experience (UX)](#user-experienceux)
+* [User Stories](#user-stories)
+### [Features](#features)
+* [Existing Features](#existing-features)
+### [Features Left to Implement](#features-left-to-implement-1)
+### [Design](#design-1)
+### [Technologies Used](#technologies-used-1)
+### [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used-1)
+### [Testing](#testing-1)
+* [Validation Results](#validation-results)
+* [Manual Testing](#manual-testing)
+* [Lighthouse Report](#lighthouse-report)
+### [Deployment and local development](#deployment-and-local-development-1)
+* [GitHub Pages](#github-pages)
+* [Forking the GitHub Repository](#forking-the-github-repository)
+* [Local Clone](#local-clone)
+### [Credits](#credits-1)
+### [Acknowledgements](#acknowledgements-1)
+---
+
+
 ## User Experience(UX)
    <ul>
-   <li></li>
-   <li></li>
-   <li></li>
+   <li>The website is intended for people who want to decorate their party and order a unique cake.</li>
+   <li>The website has galleries with sample cakes and information on how to contact us to order.</li>
+   <li>A specially created page with a form to fill out to facilitate placing an order.</li>
    </ul>
 
+ ### User Stories
+
+ * First-time users:
+    * A first-time user wants to navigate easily and quickly find basic information about the cake-bakery
+    * Find out what types of cakes you can buy there.
+    * Easy to find galleries to see what to expect.
+ * When visiting the website again:
+    * Easy to find information about where the bakery is located.
+    * Check the price list.
+    * Easy to find links to social media.
+
+ * Frequent user goals
+    * Visit the gallery to check out new products.
+    * Easily navigate to the contact us page to place an order or ask a question.
+  - - -
 
 
 ## Features
 
 -   __Navigation Bar__ 
-
- ![Navbar](/assets/images/screenshots/nav_bar.png)  
-   * Logo with link to main page.
-   * 
-   * 
-   * 
+![Navbar](/assets/images/screenshots/nav_bar.png) 
+   * It consists of a logo which is also a link to the main page.
+   * "Menu" containing links to three basic parts of the website: Home - home page, Gallery - gallery, Contact_us! - form for contact with bakery.
+   * The navbar is fully responsive and changes to a toggler (clik on) on smaller screens.
+   * Design to allow users to easily navigate the page.
 
 -   __Heading for main section__
 ![Magda_chef](/assets/images/screenshots/HeroMagda.png)
@@ -70,6 +107,26 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 
       ![Contact Us](/assets/images/screenshots/contact_form.png)
 
+## Features coming soon:
+
+* The next part with the possibility of adding comments by satisfied (or not ;-) customers.
+* Updated gallery with an additional section with photos of satisfied customers with their cakes.
+* New section on the main page, with current promotions.
+---
+
+## Design
+
+ * Colour:
+    * The colors on the website have been selected to reflect the creamy taste of the cakes.
+
+ * Fonts:
+
+
+    * The type of basic font was chosen to emphasize the artistic way of making each cake, the choice fell on:"Tangarine". For the basic text, to make reading easier, the font was chosen: "Roboto".
+
+ * Wireframes
+    * The main layout of the page, drawn with a pen on a piece of paper, details refined during the creation process.
+---
 ## Testing
 <ul>
 <li></li>
