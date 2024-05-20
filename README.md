@@ -279,7 +279,7 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
    * In the expanded menu in the repositories tab, select the appropriate repositories (Magda's cakes).
    * On the opened page, find "settings", then "pages".
    * Under "Source", click the dropdown menu "None" and select "Main".
-   * Now you can klik in to "Save" button.
+   * Now you can clik in to "Save" button.
    * Page should automatically refresh.
    * Done, a link to the page should appear after some time.
 
@@ -306,3 +306,9 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 ### Other:
    * The idea for the main photo was taken from Code Institute love running walkthrough project.
    * In order to create a navigation bar, part of the code was borrowed from Codeinstitute love running walkthrough project and then fully modified by the developer.
+
+   ## Acknowledgements
+
+ * Many thanks to my mentor Mitko Bachvarov for his helpful feedback and very useful links to:
+   * https://css-tricks.com/adaptive-photo-layout-with-flexbox/,
+   * https://css-tricks.com/snippets/css/a-guide-to-flexbox/.
