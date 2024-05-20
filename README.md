@@ -22,7 +22,8 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 ### [Deployment](#deployment-1)
 ### [Bugs](#bugs-1)
 ### [Credits](#credits-1)
-### [Media](#media-1)
+ * [Media](#media-1)
+ * [Other](#other)
 ---
 
 
@@ -297,9 +298,11 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 
 ## Credits:
     
-
-## Media: 
+ ### Media: 
    * Some of the photos used in the project come from Pexels.com free photos https://www.pexels.com/.
    * The remaining photos come from vecteezy.com https://www.vecteezy.com/ .
    * The simpleimageresizer.com website was used to reduce the size of the photos https://www.simpleimageresizer.com/.
    
+### Other:
+   * The idea for the main photo was taken from Code Institute love running walkthrough project.
+   * In order to create a navigation bar, part of the code was borrowed from Codeinstitute love running walkthrough project and then fully modified by the developer.
