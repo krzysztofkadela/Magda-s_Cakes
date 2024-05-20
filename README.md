@@ -3,28 +3,26 @@
 Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick. So far, Magda has based her business only on friends and friends of friends, but she came to the conclusion that it was time to look for more clients, reach a little further and become present on the Internet.
 
 
-![Am I Responsive](/assets/images/screenshots/HeroReademe.png)
+![Am_I_Responsive](/assets/images/screenshots/HeroReademe.png)
 
 ## Table of Contents
 
-### [User Experience (UX)](#user-experienceux)
-* [User Stories](#user-stories)
+### [User_Experience_(UX)](#user-experienceux)
+* [User_Stories](#user-stories)
 ### [Features](#features-1)
 
-### [Features coming soon](#features-coming-soon)
+### [Features_coming_soon](#features-coming-soon)
 ### [Design](#design-1)
-### [Technologies Used](#technologies-used-1)
-### [Programs & Libraries Used in project](#programs--libraries-used-in-project-1)
+### [Technologies_Used](#technologies-used-1)
+### [Programs_&_Libraries_Used_in_project](#programs--libraries-used-in-project-1)
 ### [Testing](#testing-1)
-* [Validation Results](#validation-results)
-* [Manual Testing](#manual-testing)
-* [Lighthouse Testing](#lighthouse-testing)
-### [Deployment and local development](#deployment-and-local-development-1)
-* [GitHub Pages](#github-pages)
-* [Forking the GitHub Repository](#forking-the-github-repository)
-* [Local Clone](#local-clone)
+* [Validation_reports](#validation-results)
+* [Manual_Testing](#manual-testing)
+* [Lighthouse_Testing](#lighthouse-testing)
+### [Deployment](#deployment-1)
+### [Bugs](#bugs-1)
 ### [Credits](#credits-1)
-### [Acknowledgements](#acknowledgements-1)
+### [Media](#media-1)
 ---
 
 
@@ -171,13 +169,13 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
     * Screenshots for README.md file.
 ---
 ## Testing:
-
-The W3C Markup Validator and W3C CSS Validator services were used to validate every page of the project to ensure there were no errors.
+ * In order to check whether the code does not contain errors, they were used
+   TW3C Markup Validator and W3C CSS Validator services.
 
  * [W3C Markup Validtor](https://validator.w3.org/)
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-### Validation results:
+### Validation reports:
 
 <details>
 <summary>index.html
@@ -278,10 +276,14 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
    * Log in to [Github](https://github.com/).
    * In the upper left corner of the screen, click the menu next to your account name.
    * In the expanded menu in the repositories tab, select the appropriate repositories (Magda's cakes).
-   * 
+   * On the opened page, find "settings", then "pages".
+   * Under "Source", click the dropdown menu "None" and select "Main".
+   * Now you can klik in to "Save" button.
+   * Page should automatically refresh.
+   * Done, a link to the page should appear after some time.
 
-   
-   
+   * Live "Magdas Cake's" webside you can find by clicking this link:
+     https://krzysztofkadela.github.io/Magda-s_Cakes/
 
 
 ## Bugs:
@@ -294,3 +296,10 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
    * When tested in lighthouse gallery.html page  showed poor but acceptable performance on mobile devices, caused by too large photos used in the gallery, the size will be adjusted in the future to improve performance.
 
 ## Credits:
+    
+
+## Media: 
+   * Some of the photos used in the project come from Pexels.com free photos https://www.pexels.com/.
+   * The remaining photos come from vecteezy.com https://www.vecteezy.com/ .
+   * The simpleimageresizer.com website was used to reduce the size of the photos https://www.simpleimageresizer.com/.
+   
