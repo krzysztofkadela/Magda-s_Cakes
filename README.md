@@ -54,40 +54,51 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 
 ## Features
 
--   __Navigation Bar__ 
+* Navigation Bar:
 ![Navbar](/assets/images/screenshots/nav_bar.png) 
    * It consists of a logo which is also a link to the main page.
    * "Menu" containing links to three basic parts of the website: Home - home page, Gallery - gallery, Contact_us! - form for contact with bakery.
    * The navbar is fully responsive and changes to a toggler (clik on) on smaller screens.
    * Design to allow users to easily navigate the page.
 
--   __Heading for main section__
+* Heading for main section:
 ![Magda_chef](/assets/images/screenshots/HeroMagda.png)
 
-    -  Heading for main section contains a large photo of a smiling Magda  in her bakery. It makes a very good first impression.
+   * Heading for main section contains a large photo of a smiling Magda  in her bakery. It makes a very good first impression.
 
-- __My Story__
-![My story](/assets/images/screenshots/Something_about_me)
-   - why_choice
+* Something about Me:
+  ![Something_about_me](/assets/images/screenshots/Something_about_me.png)
 
+   * In this section, the user can learn about Magda's story, who she is   and how she started baking cakes.
 
-- __01__
+* My cakes are special:
+   ![My_cakes_are_special](/assets/images/screenshots/My_cake_are_special.png)
+   
+   * In this section, the user can find out what distinguishes Magdy's cakes from others.
 
-    - t
+* Why choose my cakes:
+   ![Why_choose_my_cakes](/assets/images/screenshots/Why_choose_my_cakes.png)
+
+   * A short section presenting some main reasons why you should order a cake here.
+* Price list:
+   ![Price_list](/assets/images/screenshots/price_list.png)
+
+   * General price list, price depends on the size of the cake.
+
+* Product types:
+   ![Product_types](/assets/images/screenshots/product_type.png)
+
+   * In this part, visitors can find out what kind of baked goods they can order here.
+   * Four main types of products: communion cakes, wedding cakes, birthday cakes and various types of cupcakes.
+
+* Footer:
+   ![Footer](/assets/images/screenshots/footer_sc.png)
     
-      ![Company Ideals](documentation/supp-images/f04-company-ideals.png)
+    * Final part, same for all four pages.
+    * A person visiting the website can find there basic information such as opening hours, address and link to the map, links to social media.
 
-- __Footer__
 
-    - 
 
-        - 
-
-        -  
-
-        - 
-
-      ![Footer](/assets/images/screenshots/footer_sc.png)
 
 - __Gallery section__
 
