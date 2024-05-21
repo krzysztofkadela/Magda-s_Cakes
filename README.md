@@ -14,7 +14,7 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 ### [Features_coming_soon](#features-coming-soon)
 ### [Design](#design-1)
 ### [Technologies_Used](#technologies-used-1)
-### [Programs_&_Libraries_Used_in_project](#programs--libraries-used-in-project-1)
+### [Programs_&_Libraries_Used_in_project](#programs__libraries_used_in_project)
 ### [Testing](#testing-1)
 * [Validation_reports](#validation-results)
 * [Manual_Testing](#manual-testing)
@@ -22,7 +22,7 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 ### [Deployment](#deployment-1)
 ### [Bugs](#bugs-1)
 ### [Credits](#credits-1)
- * [Media](#media-1)
+ * [Media](#media)
  * [Other](#other)
 ---
 
