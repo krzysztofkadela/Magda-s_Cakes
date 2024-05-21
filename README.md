@@ -12,8 +12,8 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
 ### [Features](#features-1)
 
 ### [Features_coming_soon](#features-coming-soon)
+### [Technologies_used_in_the_project](#technologies-used-in-the-project)
 ### [Design](#design-1)
-### [Technologies_Used](#technologies-used-1)
 ### [Programs_&_Libraries_Used_in_project](#programs__libraries_used_in_project)
 ### [Testing](#testing-1)
 * [Validation_reports](#validation-results)
@@ -153,7 +153,7 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
  * Wireframes
     * The main layout of the page, drawn with a pen on a piece of paper, details refined during the creation process.
 ---
-## Technologies Used:
+## Technologies used in the project:
 
  * [HTML5](https://en.wikipedia.org/wiki/HTML5)
  * [CSS3](https://en.wikipedia.org/wiki/CSS)
@@ -307,7 +307,7 @@ Magda's Cakes is a small home bakery run by one chef, Magda and here friend Mick
    * The idea for the main photo was taken from Code Institute love running walkthrough project.
    * In order to create a navigation bar, part of the code was borrowed from Codeinstitute love running walkthrough project and then fully modified by the developer.
 
-   ## Acknowledgements
+   ## Acknowledgements:
 
  * Many thanks to my mentor Mitko Bachvarov for his helpful feedback and very useful links to:
    * https://css-tricks.com/adaptive-photo-layout-with-flexbox/,
